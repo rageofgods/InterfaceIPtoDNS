@@ -1,0 +1,19 @@
+Metadata-Version: 2.0
+Name: jtextfsm
+Version: 0.3.1
+Summary: UNKNOWN
+Home-page: https://github.com/jonathanslenders/textfsm
+Author: Google; Jonathan Slenders
+Author-email: textfsm-dev@googlegroups.com
+License: Apache License, Version 2.0
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries
+Requires: six
+
+UNKNOWN
+
+
